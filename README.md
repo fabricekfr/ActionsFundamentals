@@ -34,7 +34,7 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 - [x] :coffee: Break
 - [x] GitHub Actions
 - [x] Types of Actions
-- [ ] 🔨 Hands-on: [My first container Action](hol/02-My-first-action.md)
+- [x] 🔨 Hands-on: [My first container Action](hol/02-My-first-action.md)
 - [ ] Typescript and composite actions
 - [ ] Sharing and releasing actions
 - [ ] Using the GitHub API and Octokit
